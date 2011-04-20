@@ -1,0 +1,15 @@
+Fields full of text are annoying, especially when you don't want to
+corrupt your copy/paste buffer by highlighting text (linux). Clear
+fields is a dumb extension to fix that problem.
+
+Please feel free to improve it along the lines of
+https://addons.mozilla.org/en-us/firefox/addon/clear-fields/
+
+Written with the help of Kyle L. Huff in the excellent IRC channel
+irc://irc.freenode.net/#chromium-extensions
+
+
+
+Version 1.0 - Tuesday, April 19, 2011
+
+

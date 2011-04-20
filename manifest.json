@@ -1,0 +1,12 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "icon1.png",
+      "name": "Click to clear fields"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXfo+mDizmzdEu/ESdqu9AQdmKT4KEK9+I0WivkAt0UYEkqxx4yyzRH4lfq/ionVYfi3hj4/MZHx0hpbT26m+jNbmsLy7DK4uBKmsaXTTPyjxtwRQKc5vVN7rzUxJEW9u7LsE0KZ882hrOJ66Cf8oX+EP24EpCcKOfmjKsbUG1/wIDAQAB",
+   "name": "Clear fields.",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
