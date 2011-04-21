@@ -4,7 +4,7 @@
 
 chrome.browserAction.onClicked.addListener(
   function(tab) {
-    chrome.tabs.executeScript(null, {file:"content_script.js"});
+    chrome.tabs.executeScript(null, {code:"for (i=0; i<document.forms.length; i++){ document.forms[i].reset(); }"});
   }
 );
 
